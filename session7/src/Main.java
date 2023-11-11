@@ -21,5 +21,8 @@ public class Main {
 
         List<String> stringList = List.of( ":D", "fasdfadsfsdffa", ":D", "fsdafa", ":D", "123", ":)");
         System.out.println(SmileFaces.countSmileys(stringList));
+        System.out.println("*************************************************");
+        DigitDescending.sortDesc(2364811);
+
     }
 }
