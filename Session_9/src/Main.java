@@ -4,6 +4,11 @@ public class Main {
         System.out.println(SumArray.sum(nums));
 
         System.out.println(PinSolution.validatePin("13333"));
+         String a = "1523";
+         String b = "321";
+
+
+        System.out.println(AddingBigNumbers.add(a, b));
 
     }
 }
